@@ -1,6 +1,7 @@
 📊 AI-Powered Analytics Dashboard – InsightCanvas
 
-This is a modern analytics dashboard built for the ADmyBRAND internship task (Task A). It helps marketing teams easily see data and insights using beautiful charts and smart UI
+This is a modern analytics dashboard built for the ADmyBRAND internship task (Task A). It helps marketing teams easily see data and insights using beautiful charts and smart UI.
+
 🚀 Project Features
 - Built with **Next.js 14**, **Tailwind CSS**, and **React**
 - Uses **Recharts** for showing data in charts
